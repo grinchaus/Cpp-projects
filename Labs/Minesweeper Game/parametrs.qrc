@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/mine.png</file>
+        <file>icons/icon.png</file>
+        <file>icons/flag.png</file>
+        <file>translate/minesweeper_ru.qm</file>
+    </qresource>
+</RCC>
