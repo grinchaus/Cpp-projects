@@ -6,14 +6,14 @@
 
 | № | Название задания               | Путь к проекту                                  |
 |:-:|:-------------------------------|:------------------------------------------------|
-| 1 | Factorials                     | [Homeworks/Factorials](Homeworks/Factorials)    |
-| 2 | Quaternion                     | [Homeworks/Quaternion](Homeworks/Quaternion)    |
+| 1 | Factorials                     | [Factorials](Homeworks/Factorials)              |
+| 2 | Quaternion                     | [Quaternion](Homeworks/Quaternion)              |
 
 ## Лабораторные работы (Labs)
 
 | № | Название лабораторной работы   | Путь к проекту                                  |
 |:-:|:-------------------------------|:------------------------------------------------|
-| 1 | BucketStorage                  | [Labs/BucketStorage](Labs/BucketStorage)        |
-| 2 | Cross-Correlation              | [Labs/Cross-Correlation](Labs/Cross-Correlation)|
-| 3 | Floating Point                 | [Labs/Floating Point](Labs/Floating%20Point)    |
-| 4 | Minesweeper Game               | [Labs/Minesweeper Game](Labs/Minesweeper%20Game)|
+| 1 | BucketStorage                  | [BucketStorage](Labs/BucketStorage)             |
+| 2 | Cross-Correlation              | [Cross-Correlation](Labs/Cross-Correlation)     |
+| 3 | Floating Point                 | [Floating Point](Labs/Floating%20Point)         |
+| 4 | Minesweeper Game               | [Minesweeper Game](Labs/Minesweeper%20Game)     |
